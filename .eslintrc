@@ -1,0 +1,21 @@
+{
+  "extends": ["oclif", "oclif-typescript"],
+  "rules": {
+    "@typescript-eslint/no-empty-function": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/ban-ts-comment": "off",
+    "@typescript-eslint/no-namespace": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-inferrable-types": "off",
+    "no-fallthrough": "off",
+    "no-empty": "off",
+    "no-constant-condition": "off",
+    "indent": "off",
+    "object-curly-spacing": "off",
+    "quotes": "off",
+    "semi": "off",
+    "no-console": "off",
+    "no-extra-semi": "off"
+  }
+}
